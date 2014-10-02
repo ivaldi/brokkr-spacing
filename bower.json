@@ -1,0 +1,23 @@
+{
+  "name": "brokkr-spacing",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ivaldi/brokkr-spacing",
+  "authors": [
+    "Ivaldi <info@ivaldi.nl>"
+  ],
+  "description": "CSS helper classes, providing easy way to manipulate spacing in HTML documents.",
+  "main": "spacing.css",
+  "keywords": [
+    "brokkr",
+    "oocss",
+    "css"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
